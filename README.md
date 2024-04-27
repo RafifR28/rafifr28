@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafif Ramadan
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning to make a website
 
 <!---
